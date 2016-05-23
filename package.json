@@ -1,0 +1,19 @@
+{
+  "name": "text-reader",
+  "version": "0.1.0",
+  "description": "ES6 text reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnSmithDr/text-reader.git"
+  },
+  "author": "johnsmith1st <johnsmith1st@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnSmithDr/text-reader/issues"
+  },
+  "homepage": "https://github.com/JohnSmithDr/text-reader#readme"
+}
