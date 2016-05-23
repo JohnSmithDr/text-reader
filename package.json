@@ -4,7 +4,7 @@
   "description": "ES6 text reader",
   "main": "index.js",
   "scripts": {
-    "test": "mocha text.js"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
