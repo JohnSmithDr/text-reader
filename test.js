@@ -82,7 +82,7 @@ describe('TextReader', function() {
     it('should be ok', function() {
 
       let arr = [];
-      while (reader.available > 0) {
+      while (reader.available) {
         let str = reader.readLine();
         arr.push(str);
       }
